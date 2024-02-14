@@ -1,1 +1,2 @@
 # CODSOFT
+AI Internship Tasks
